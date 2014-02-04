@@ -3,4 +3,11 @@ __author__ = 'far'
 import ccar
 
 
-c= car()
+# from ccar c= car()
+
+
+c = ccar.car()
+print(c.model())
+
+
+

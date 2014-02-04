@@ -4,8 +4,6 @@ __author__ = 'far'
 
 
 class TestCar(TestCase):
-    def test_printname(self):
-        self.fail()
 
 
 class TestCar(TestCase):
@@ -13,4 +11,8 @@ class TestCar(TestCase):
         self.fail()
 
     def test_model(self):
+        self.assertEqual("golf", self)
+
+    def test_printcarname(self):
         self.fail()
+

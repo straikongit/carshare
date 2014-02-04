@@ -1,7 +1,7 @@
 __author__ = 'far'
 
 class car:
-    def printname(self):
+    def printcarname(self):
         print ("car")
         print ("x")
     def f(self):
@@ -11,8 +11,8 @@ class car:
          return 'Golf'
 
 
-c= car()
-c.printname()
+c=car()
+c.printcarname()
 print (c.model())
 
 
