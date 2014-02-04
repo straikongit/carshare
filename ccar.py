@@ -4,6 +4,7 @@ class car:
     def printcarname(self):
         print ("car")
         print ("x")
+        return "Golf"
     def f(self):
         return 'hello world'
 
