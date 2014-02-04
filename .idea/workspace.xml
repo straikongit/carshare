@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6405fba-6c9a-4935-8c92-1b4ba29803fd" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/readme.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="carshare.iws" />
@@ -46,10 +47,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_ccar.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="test_ccar.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/carshare/test_ccar.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="0" selection-start="392" selection-end="392" vertical-scroll-proportion="0.52560645" vertical-offset="0" max-vertical-offset="742">
+            <state line="26" column="0" selection-start="392" selection-end="392" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readme.txt" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/doc/readme.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="0" selection-start="33" selection-end="33" vertical-scroll-proportion="0.04043127" vertical-offset="0" max-vertical-offset="742">
               <folding />
             </state>
           </provider>
@@ -78,6 +88,7 @@
         <option value="$PROJECT_DIR$/ccar.py" />
         <option value="$PROJECT_DIR$/test_ccar.py" />
         <option value="$PROJECT_DIR$/carshare/test_ccar.py" />
+        <option value="$PROJECT_DIR$/doc/readme.txt" />
       </list>
     </option>
   </component>
@@ -129,6 +140,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="carshare" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="carshare" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="carshare" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="doc" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -437,12 +462,16 @@
       <created>1391546988003</created>
       <updated>1391546988003</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Struktur angelegt">
+      <created>1391547152167</created>
+      <updated>1391547152167</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="145" y="84" width="1719" height="919" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -540,7 +569,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/carshare/test_ccar.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="0" selection-start="392" selection-end="392" vertical-scroll-proportion="0.52560645" vertical-offset="0" max-vertical-offset="742">
+        <state line="26" column="0" selection-start="392" selection-end="392" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="33" selection-end="33" vertical-scroll-proportion="0.04043127" vertical-offset="0" max-vertical-offset="742">
           <folding />
         </state>
       </provider>
