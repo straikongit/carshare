@@ -1,6 +1,6 @@
-__author__ = 'far'
+from carshare import ccar
 
-import ccar
+__author__ = 'far'
 
 
 # from ccar c= car()

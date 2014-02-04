@@ -1,8 +1,8 @@
+from carshare import ccar
+
 __author__ = 'far'
 
 import unittest
-import ccar
-
 
 
 class TestCar(unittest.TestCase):
